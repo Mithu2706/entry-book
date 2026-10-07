@@ -1,0 +1,30 @@
+# Entry Book
+node_modules/
+.env
+.env.local
+*.env
+
+# Expo
+mobile/.expo/
+mobile/dist/
+mobile/android/
+mobile/ios/
+
+# Next.js
+admin/.next/
+admin/out/
+
+# Build
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
